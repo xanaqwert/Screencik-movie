@@ -98,17 +98,15 @@ Before you begin, ensure you have the following components installed on your sys
 ### Installation
 
 
-Step 1: Download the Source Code
-
-2. Clone the repo
+1. Clone the repo
    ```sh
    https://github.com/xanaqwert/screencik-pwpb.git
    ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    ```sh
    cd screencik-pwpb
    ```
-4. Make a database in your php my admin for the login & register authentication.
+3. Make a database in your php my admin for the login & register authentication.
 
 
 
